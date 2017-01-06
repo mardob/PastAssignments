@@ -1,5 +1,7 @@
 # Past Assignments
-These are examples of my previous work at university.
-Right now I'm working on biggest project yet which is 2D game in java. It will be top down game or sidescroller.
-I'm not sure which type I'll do. Basic game engine is given to us but most of "interesting" functionality has to be done by me.
-This contains collision detection and similar.
+These are examples of my previous work at university. Currently contins only one which was small 2D game we developed in JAVA. This game uses small library given to us as part of a module. I had to expand uppon this library and make game itself.
+
+I have addditional projects that will be uploaded a bit later. First is AI, complex algorithms assignement where I implemented Hill-climber search and Iterated local search.
+Second is from complex and distributed module where I made JAVA application that can be distributed across network and communicates over the network between nodes. It's implentation of ring algorithm although I was introduced to other algorithms as well.
+
+Right now I'm working on my final project. In this project I'm using machine learning to identify user based on keystroke dynamics data. Overall project is combination of machine learning and software development. For machine learning I'm using Libsvm library and software engineering is done in JAVA as it's language I'm most cofident in. 
