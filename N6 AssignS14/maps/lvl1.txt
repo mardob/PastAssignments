@@ -1,0 +1,54 @@
+140 43 40 40
+// The first line should contain the width and height of the
+// map and the width and height of each tile. A list of character to
+// tile mappings is then provided where each character is preceded by a
+// # character. The dot character always defaults to a blank space 
+// Note that the referenced files should be in the same directory as the
+// tile map.
+#p=stoneBrick.png
+#s=spikes.png
+// The actual tile map is preceded by the #map line
+#map
+pp........pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+pp............ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp..pppppppppp..ppppppppppppppppp
+pp.................ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp...........................................................p
+pp.................ppp....ppppppppppppppppppppppppppppppppppppppppppppppp..................................................................p
+pp..................p..........ppp......pppppppp...........pppppppppppppp..................pppppppppppppppppppppppppppppppppppp............p
+pp..............................p...........................ppppppppppppp............ppp......ppppppppppppppppppppppppppppppppp............p
+pp.........................................s...............ppppppppppppppppp...................pppppppppppppppppppppppppp..................p
+p..........................................pppppppppppppppppppppppppppppppppppp............................................................p
+p..........................................ppppppppppppppppppppppppppppppppppppppppp.......................................................p
+p.......................................p..pppppppppppppppppppppppppppppppppppppppppppppppppppp............................................p
+p.....................................ppppppppppppppppppppppppppppppppppppppppppppppppppppppppp............................................p
+ppppppppppppppp..pp..ppppppppp...pp........p.....ppp........ppppppppppppppppppppppppppppppppppp.............................ppp............p
+pppppppppppppp....p..ppppppppp...pp................p.....................ppp...........................................ppp.................p
+p...............................................................................................................ppp........................p
+p..........................................................................................................pp..............................p
+p....................................................................................................ppp.......................p...........p
+pp...pppp.......pppp......pppppppp..p..pppppp.......ppp.....pppp...pp...pppp...pp..ppp........ppp..............................p...........p
+ppp..ppppppp....ppppp....ppppppppp..p..ppppppp...p..ppp...pppppp...pp...pppp...pp..ppp...ppp...................................p...........p
+p..........................................................................................p...................................p...........p
+p..........................................................................................psssssssssssssssssppssssssssssssssssp...........p
+pp.........................................p...............................................ppppppppppppppppppppppppppppppppppppp...........p
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp......................p
+ps.........................................................................................................................................p
+ps.........................................................................................................................................p
+ps.........................................................................................................................................p
+ppppppppp..........................................................................................................................ppppppppp
+p..........................................................................................................................................p
+p...............................................................................................................................ppp........p
+p..........................................................................................................................................p
+p............................................................................................................................ppp...........p
+ppp........................................................................................................................................p
+p.................................................................................................ppppppppppppppppppppppppppp..............p
+p..........................................................................................................................................p
+p..........................................................................................................................................p
+p..........................................................................................................................................p
+p..........pp....pppppp....pppppp....pppp....pppppp....ppppppp....pppppppp....pppp...ppppppppppp...........................................p
+pppppppp.............................................................................s.....................................................p
+p.......sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssspppppsssssss.....................................................p
+p......................s.....s.............................................................................................................p
+p......................s.....s.............................................................................................................p
+pppppppp...............sppppps..........pppppp...............ppppppppppppppp............................ppppppppp..........................p
+pssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssp
+pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

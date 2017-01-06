@@ -1,0 +1,33 @@
+140 21 40 40
+// The first line should contain the width and height of the
+// map and the width and height of each tile. A list of character to
+// tile mappings is then provided where each character is preceded by a
+// # character. The dot character always defaults to a blank space 
+// Note that the referenced files should be in the same directory as the
+// tile map.
+#p=dirt3.png
+#s=spikes.png
+// b Looks same as p but doesn't collide used for secret passage, intended behaviour inspired by secrets in heretic. 
+#b=dirt3.png
+#map
+pp.........................................................................................................................................p
+pp.........................................................................................................................................p
+pp.........................................................................................................................................p
+pp.........................................................................................................................................p
+pp.........................................................................................................................................p
+pp.........................................................................................................................................p
+p..........................................................................................................................................p
+p..........................................................................................................................................p
+p..........................................................................................................................................p
+p.............................................................ss................................s......................ss..................p
+pppppppppssppssspp..........sppsssppsssppppssppppssppppssspppppppppsssppsspp....pppsspp......pppppppp....ppppppsssppppppppppp..............p
+ppppppppppppppppp.....pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp...........p
+ppppp....ppp.............pp...p....pp......ppp....ppp.............................ppppp.........ppppppppppppppppppppppppppppp..............p
+pp........p...............p.................p......p...............................bbbb....................................................p
+pp.................................................................................bbbb....................................................p
+pp.................................................................................bbbb....................................................p
+pp.................................................................................pppp....................................................p
+pp.......................................................ppppssppssppppssppsspppppspppp....................................................p
+pp.......................................................ppppppppppppppppppppppppppppppppppppppssspppsspppsspppssppssspppssssppssspppppppssp
+ppppppppppppppssppsssppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
